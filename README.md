@@ -20,11 +20,13 @@
 
 - こちらはまだ作成途中です
 
-| Github ID                                                    | Role                   | Twitter                                         | ひとこと                                                     |
-| :----------------------------------------------------------- | :--------------------- | :---------------------------------------------- | ------------------------------------------------------------ |
-| [fukumame](https://github.com/fukumame)                      | 取締役CTO              | [@fukumimi014](https://twitter.com/fukumimi014) | 小さいヒゲおじさん<br>[アイリスのAIチームに掛ける思い](https://note.mu/atsushi_f/n/ncef090f0d250) |
-| [Tdys13](https://github.com/Tdys13)                          | AIエンジニア           | [@Tdys13](https://twitter.com/Tdys13)           | アイスと[医療×AIが大好き](https://speakerdeck.com/tdys13/aixyi-yong-hua-xiang-falsexian-zhuang-toke-neng-xing)<br>医療画像系DNNにおいて豊富な知識・実力を持つ |
-| [analokmaus](https://github.com/orgs/AillisInc/people/analokmaus) | データサイエンティスト |                                                 | 国際データ解析オリンピックの[日本代表](https://jp.sputniknews.com/opinion/201904126123976-IDAO/)として出場<br />機械学習に関して豊富な知識を持つ |
+| Github ID                                                         | Role                   | Twitter                                         | ひとこと                                                                                                                                                      |
+| :---------------------------------------------------------------- | :--------------------- | :---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [fukumame](https://github.com/fukumame)                           | 取締役CTO              | [@fukumimi014](https://twitter.com/fukumimi014) | 小さいヒゲおじさん<br>[アイリスのAIチームに掛ける思い](https://note.mu/atsushi_f/n/ncef090f0d250)                                                             |
+| [Tdys13](https://github.com/Tdys13)                               | AIエンジニア           | [@Tdys13](https://twitter.com/Tdys13)           | アイスと[医療×AIが大好き](https://speakerdeck.com/tdys13/aixyi-yong-hua-xiang-falsexian-zhuang-toke-neng-xing)<br>医療画像系DNNにおいて豊富な知識・実力を持つ |
+| [analokmaus](https://github.com/orgs/AillisInc/people/analokmaus) | データサイエンティスト |                                                 | 国際データ解析オリンピックの[日本代表](https://jp.sputniknews.com/opinion/201904126123976-IDAO/)として出場<br />機械学習に関して豊富な知識を持つ              |
+| [MasashiSode](https://github.com/MasashiSode) | データサイエンティスト | [@MasashiSode](https://twitter.com/MasashiSode) | [多目的ベイズ最適化](https://github.com/MasashiSode/MOBO)を応用した航空機設計に従事．<br />機械学習に関して豊富な知識を持つ              |
+
 
 # アイリスの論文輪読会へ参加してみたい方
 - 隔週水曜日の19時くらいから、弊社アイリスのオープンスペースにて、まったりと論文輪読会を行っています。
